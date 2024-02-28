@@ -65,6 +65,3 @@ Tempy's code to his current project [TempCode](https://gist.githubusercontent.co
 
 ![lil bro caught - 9](./pic9.PNG)
 *uhq roblox account gen selenium based 100%!!*
-
-![lil bro caught - 9](./pic9.PNG)
-*uhq roblox account gen selenium based 100%!!*
