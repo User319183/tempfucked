@@ -39,32 +39,32 @@ Tempy's code to his current project [TempCode](https://gist.githubusercontent.co
 
 ## Proof of the amazing Itztempy
 
-![lil bro caught - 1](./pic1)
+![lil bro caught - 1](./pic1.PNG)
 *me pointing out tempy encoded his website thinking it does shit*
 
-![lil bro caught - 2](./pic2)
+![lil bro caught - 2](./pic2.PNG)
 *not lil bro lying and deleting proof because he got exposed*
 
-![lil bro caught - 3](./pic3)
+![lil bro caught - 3](./pic3.PNG)
 *not lil bro showing off his profesional 3 lines of coding (which you can find literally in every discord raiding tool)*
 
-![lil bro caught - 4](./pic4)
+![lil bro caught - 4](./pic4.PNG)
 *not lil bro getting absolutely fucked by his own developer LMAO*
 
-![lil bro caught - 5](./pic5)
+![lil bro caught - 5](./pic5.PNG)
 *bro doesnt know what a directory is*
 
-![lil bro caught - 6](./pic6)
+![lil bro caught - 6](./pic6.PNG)
 *its always the skids...*
 
-![lil bro caught - 7](./pic7)
+![lil bro caught - 7](./pic7.PNG)
 *"user319183 only knows python" - first off, I know more than python. Second off, tempy making fun of me "only" knowing python when he can't even learn the basics*
 
-![lil bro caught - 8](./pic8)
+![lil bro caught - 8](./pic8.PNG)
 *bro thought a success message was a debug message*
 
-![lil bro caught - 9](./pic9)
+![lil bro caught - 9](./pic9.PNG)
 *uhq roblox account gen selenium based 100%!!*
 
-![lil bro caught - 9](./pic9)
+![lil bro caught - 9](./pic9.PNG)
 *uhq roblox account gen selenium based 100%!!*
