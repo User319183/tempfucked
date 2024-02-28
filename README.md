@@ -10,11 +10,11 @@ Tempy's skills include:
 
 - Skidding
 - Lying about income from a Roblox account generator
-- Reading and understanding documentation
-- Understanding of what a skid is
-- Knowledge of GitHub tools
-- Awareness of potential malware in open source projects on GitHub
-- Use of developer tools, specifically the network tab
+- Reading and understanding documentation (lie)
+- Understanding of what a skid is (lie)
+- Knowledge of GitHub tools (lie)
+- Awareness of potential malware in open source projects on GitHub (lie)
+- Use of developer tools, specifically the network tab (lie)
 
 ## Projects
 
