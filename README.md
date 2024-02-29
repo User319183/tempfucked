@@ -1,3 +1,5 @@
+> **NOTE: We are currently working on a newer, deobfuscated version of his script with Luraph protection and obfuscation. This updated script can be found in `newScript.lua` file [here](./newScript.lua) and will be updated frequently. Stay tuned for the latest updates.**
+
 # Itztempy: A Detailed Overview
 
 ## Background
@@ -10,11 +12,11 @@ Tempy's skills include:
 
 - Skidding
 - Lying about income from a Roblox account generator
-- Reading and understanding documentation (lie)
-- Understanding of what a skid is (lie)
-- Knowledge of GitHub tools (lie)
-- Awareness of potential malware in open source projects on GitHub (lie)
-- Use of developer tools, specifically the network tab (lie)
+- Reading and understanding documentation
+- Understanding of what a skid is
+- Knowledge of GitHub tools
+- Awareness of potential malware in open source projects on GitHub
+- Use of developer tools, specifically the network tab
 
 ## Projects
 
@@ -34,8 +36,9 @@ Credits go to:
 
 ## TempCode Leaked
 
-Tempy's code to his current project [TempCode](https://gist.githubusercontent.com/tempservice/d0a3e82dfa1db85c00c4911c02e7f6ef/raw/66cd3860bdc10fbb6c4cdb10ef20dc1f07373c4c/gistfile1.txt) has been leaked. He will most likely delete that repository, making the hyper link useless. You can view the code for his script at `script.lua` file [here](./script.lua).
+The code to Tempy's current project [TempCode](https://gist.githubusercontent.com/tempservice/d0a3e82dfa1db85c00c4911c02e7f6ef/raw/66cd3860bdc10fbb6c4cdb10ef20dc1f07373c4c/gistfile1.txt) has been leaked. He will most likely delete that repository, making the hyperlink useless. You can view the outdated code for his script at `script.lua` file [here](./script.lua).
 
+> **NOTE: We are currently working on a newer, deobfuscated version of his script with Luraph protection and obfuscation. This updated script can be found in `newScript.lua` file [here](./newScript.lua) and will be updated frequently. Stay tuned for the latest updates.**
 
 ## Proof of the amazing Itztempy
 
