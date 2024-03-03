@@ -1,4 +1,4 @@
-> **NOTE: We are currently working on a newer, deobfuscated version of his script with Luraph protection and obfuscation. This updated script can be found in `newScript.lua` file [here](./newScript.lua) and will be updated frequently. Stay tuned for the latest updates.**
+> **NOTE: We are currently working on newer, deobfuscated versions of his script with Luraph protection & 77fuscator reversing. This updated script can be found in `main.lua` file [here](./main.lua) and will be updated frequently. Stay tuned for the latest updates.**
 
 # Itztempy: A Detailed Overview
 
