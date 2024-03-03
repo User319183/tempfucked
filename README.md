@@ -1,4 +1,4 @@
-> **NOTE: We are currently working on newer, deobfuscated versions of his script with Luraph protection & 77fuscator reversing. This updated script can be found in `main.lua` file [here](./main.lua) and will be updated frequently. Stay tuned for the latest updates.**
+> **NOTE: We are currently working on newer, deobfuscated versions of his script with Luraph protection & 77fuscator reversing. This updated script can be found in `script.lua` file [here](./script.lua) and will be updated frequently. Stay tuned for the latest updates.**
 
 # Itztempy: A Detailed Overview
 
@@ -38,7 +38,7 @@ Credits go to:
 
 The code to Tempy's current project [TempCode](https://gist.githubusercontent.com/tempservice/d0a3e82dfa1db85c00c4911c02e7f6ef/raw/66cd3860bdc10fbb6c4cdb10ef20dc1f07373c4c/gistfile1.txt) has been leaked. He will most likely delete that repository, making the hyperlink useless. You can view the outdated code for his script at `script.lua` file [here](./script.lua).
 
-> **NOTE: We are currently working on a newer, deobfuscated version of his script with Luraph protection and obfuscation. This updated script can be found in `main.lua` file [here](./main.lua) and will be updated frequently. Stay tuned for the latest updates.**
+> **NOTE: We are currently working on a newer, deobfuscated version of his script with Luraph protection and obfuscation. This updated script can be found in `script.lua` file [here](./script.lua) and will be updated frequently. Stay tuned for the latest updates.**
 
 ## Proof of the amazing Itztempy
 
