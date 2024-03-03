@@ -1,7 +1,7 @@
 --==============================
 --[[ 
 
-Credits for reversing Luraph obfuscation
+Credits for reversing Luraph & 77fuscator obfuscation
     - User319183 - https://user319183.github.io
 
 77fuscator version
